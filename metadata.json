@@ -1,0 +1,6 @@
+{
+  "name": "SmartBus Connect",
+  "description": "Smart Bus Travel & Fleet Management platform featuring route booking, interactive seat selection, live fleet tracking telemetry, and operator portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
